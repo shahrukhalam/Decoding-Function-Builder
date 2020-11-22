@@ -4,5 +4,7 @@
         <page name='View'/>
         <page name='VStackTypeCheck'/>
         <page name='ViewBuilder'/>
+        <page name='NSAttributedString'/>
+        <page name='NSAttributedString Builder'/>
     </pages>
 </playground>
