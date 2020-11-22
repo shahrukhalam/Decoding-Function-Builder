@@ -6,5 +6,7 @@
         <page name='ViewBuilder'/>
         <page name='NSAttributedString'/>
         <page name='NSAttributedString Builder'/>
+        <page name='AlertController'/>
+        <page name='AlertController Builder'/>
     </pages>
 </playground>
