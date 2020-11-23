@@ -8,5 +8,6 @@
         <page name='NSAttributedString Builder'/>
         <page name='AlertController'/>
         <page name='AlertController Builder'/>
+        <page name='UIStackView'/>
     </pages>
 </playground>
